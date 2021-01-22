@@ -10,7 +10,7 @@
 
 <font face="HP Simplified Light" color=""><b>CONTACT</b></font>
 </center>	
-<hr width="45%">
+<hr width="80%">
 <center>
 <img src="1.png" height=15px>8800565688<br>
 <img src="2.png" height=15px> bansalvinay2001@gmail.com<br> 
