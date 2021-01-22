@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>RESUME</title>
+RESUME
 <link rel="stylesheet" href="style.css">
 </head>
 <body style="Calibri">
@@ -41,7 +41,7 @@
 </font>
 <hr width="20%" color="black">
 
-<font face="HP Simplified Light" size="5"><b>CAREER OBJECTIVE</b> </font><hr width="25%" color="black" align="left">
+<font face="HP Simplified Light" size="5"><b>CAREER OBJECTIVE</b> </font><hr width="20%" color="black" align="left">
 <font size="3">
 Looking for a challenging role in a reputable organization to utilize my technical and leadership skills for the growth of the company as well as to enhance my knowledge about emerging trends in the Technology Sector.<br></font><br>
 
@@ -78,7 +78,7 @@ Looking for a challenging role in a reputable organization to utilize my technic
 </table><br>
 
 
-<font face="HP Simplified Light" size="5"><b>SKILLS</b> </font><hr width="10%" color="black" align="left">
+<font face="HP Simplified Light" size="5"><b>SKILLS</b> </font><hr width="20%" color="black" align="left">
 <font size="3">
 <ul>
 	<li>Professional communication, leadership, adaptability</li>
