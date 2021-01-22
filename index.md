@@ -1,6 +1,6 @@
 <html>
 <head>
-RESUME
+	<centre><font size=5"><b>RESUME</b></centre></font>
 <link rel="stylesheet" href="style.css">
 </head>
 <body style="Calibri">
@@ -28,7 +28,7 @@ RESUME
 </ul>
 
 <center><font face="HP Simplified Light" color=""><b>INTERESTS</b></font></center>
-<hr width="50%">
+<hr width="80%">
 <ul>
 	<li>Cricket</li>
 	<li>Badminton</li>
@@ -41,12 +41,12 @@ RESUME
 </font>
 <hr width="20%" color="black">
 
-<font face="HP Simplified Light" size="5"><b>CAREER OBJECTIVE</b> </font><hr width="20%" color="black" align="left">
+<font face="HP Simplified Light" size="5"><b>CAREER OBJECTIVE</b> </font><hr width="80%" color="black" align="left">
 <font size="3">
 Looking for a challenging role in a reputable organization to utilize my technical and leadership skills for the growth of the company as well as to enhance my knowledge about emerging trends in the Technology Sector.<br></font><br>
 
 
-<font face="HP Simplified Light" size="5"><b>EDUCATION</b></font><hr width="20%" color="black" align="left">
+<font face="HP Simplified Light" size="5"><b>EDUCATION</b></font><hr width="80%" color="black" align="left">
 <table border=2 cellpadding="2" cellspacing="2" >
   <font size="3">
   <tr align="center" bgcolor="#666699">
@@ -78,7 +78,7 @@ Looking for a challenging role in a reputable organization to utilize my technic
 </table><br>
 
 
-<font face="HP Simplified Light" size="5"><b>SKILLS</b> </font><hr width="20%" color="black" align="left">
+<font face="HP Simplified Light" size="5"><b>SKILLS</b> </font><hr width="80%" color="black" align="left">
 <font size="3">
 <ul>
 	<li>Professional communication, leadership, adaptability</li>
@@ -86,7 +86,7 @@ Looking for a challenging role in a reputable organization to utilize my technic
 </ul>
 </font>
 
-<font face="HP Simplified Light" size="5"><b>TECHNICAL AND EXTRA-CURRICULAR ACHIEVEMENTS</b></font><hr width="60%" color="black" align="left">
+<font face="HP Simplified Light" size="5"><b>TECHNICAL AND EXTRA-CURRICULAR ACHIEVEMENTS</b></font><hr width="80%" color="black" align="left">
 <font size="3">
 	<ul>
 <li><b>Online Professional Writer</b> (2018-2021)
