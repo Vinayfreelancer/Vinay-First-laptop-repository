@@ -1,25 +1,25 @@
 <html>
 <head>
-	<centre><font size="5"><b>RESUME</b></centre></font>
+	<H1><center><b>RESUME</b></center></H1>
 <link rel="stylesheet" href="style.css">
 </head>
 <body style="Calibri">
 <div>
 <br>
-<center>
+
 
 <font face="HP Simplified Light" color=""><b>CONTACT</b></font>
-</center>	
+	
 <hr width="80%">
-<center>
-<img src="1.png" height=15px>8800565688<br>
-<img src="2.png" height=15px> bansalvinay2001@gmail.com<br> 
-<img src="3.png" height=15px> github.com/vinayfreelancer<br>
-<img src="4.png" height=15px border="white" > Linkedin.com/vinay
-</center>
+
+<img src="1.png" height=10px>8800565688<br>
+<img src="2.png" height=10px> bansalvinay2001@gmail.com<br> 
+<img src="3.png" height=10px> github.com/vinayfreelancer<br>
+<img src="4.png" height=10px border="white" > Linkedin.com/vinay
+
 <br><br>
 
-<center><font face="HP Simplified Light" color=""><b>LANGUAGES KNOWN</b></font></center>
+<font face="HP Simplified Light" color=""><b>LANGUAGES KNOWN</b></font>
 <hr width="80%">
 <ul>
 	<li>English</li>
@@ -27,7 +27,7 @@
 	<li>Partially French</li>
 </ul>
 
-<center><font face="HP Simplified Light" color=""><b>INTERESTS</b></font></center>
+<font face="HP Simplified Light" color=""><b>INTERESTS</b></font>
 <hr width="80%">
 <ul>
 	<li>Cricket</li>
@@ -83,17 +83,14 @@ Looking for a challenging role in a reputable organization to utilize my technic
 </ul>
 </font>
 
-<font face="HP Simplified Light" size="5"><b>TECHNICAL AND EXTRA-CURRICULAR ACHIEVEMENTS</b></font><hr width="80%" color="black" align="left">
+<font face="HP Simplified Light" size="5"><b>TECHNICAL AND EXTRA-CURRICULAR ACHIEVEMENTS</b></font>
+<hr width="80%" color="black" align="left">
 <font size="3">
 	<ul>
-<li><b>Online Professional Writer</b> (2018-2021)
-<li><b>District Level Cricketer </b>(2017)
-<li>1-day workshop,<b> arduino </b> by MRU (2019) 
-
+		<li><b>Online Professional Writer</b> (2018-2021)</li>
+		<li><b>District Level Cricketer </b>(2017)</li>
+		<li>1-day workshop,<b> arduino </b> by MRU (2019) </li>
 </ul>
 </font>
-
-
-
 </body>
 </html>
