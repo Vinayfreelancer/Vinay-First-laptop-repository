@@ -1,6 +1,6 @@
 <html>
 <head>
-	<centre><font size=5"><b>RESUME</b></centre></font>
+	<centre><font size="5"><b>RESUME</b></centre></font>
 <link rel="stylesheet" href="style.css">
 </head>
 <body style="Calibri">
@@ -12,10 +12,10 @@
 </center>	
 <hr width="45%">
 <center>
-<img src="1.png" height=15px;>8800565688<br>
-<img src="2.png" height=15px;> bansalvinay2001@gmail.com<br> 
-<img src="3.png" height=15px;> github.com/vinayfreelancer<br>
-<img src="4.png" height=15px border="white" ;> Linkedin.com/vinay
+<img src="1.png" height=15px>8800565688<br>
+<img src="2.png" height=15px> bansalvinay2001@gmail.com<br> 
+<img src="3.png" height=15px> github.com/vinayfreelancer<br>
+<img src="4.png" height=15px border="white" > Linkedin.com/vinay
 </center>
 <br><br>
 
@@ -36,10 +36,7 @@
 </ul>
 </div>
 <div2>
-	<font face="HP Simplified Light" color="">
-	<h1 align="center">VINAY BANSAL </h1>  
-</font>
-<hr width="20%" color="black">
+	
 
 <font face="HP Simplified Light" size="5"><b>CAREER OBJECTIVE</b> </font><hr width="80%" color="black" align="left">
 <font size="3">
@@ -97,7 +94,6 @@ Looking for a challenging role in a reputable organization to utilize my technic
 </font>
 
 
-</div2>
 
 </body>
 </html>
