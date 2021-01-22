@@ -34,9 +34,7 @@
 	<li>Badminton</li>
 	<li>Coding</li>	
 </ul>
-</div>
-<div2>
-	
+</div>	
 
 <font face="HP Simplified Light" size="5"><b>CAREER OBJECTIVE</b> </font><hr width="80%" color="black" align="left">
 <font size="3">
